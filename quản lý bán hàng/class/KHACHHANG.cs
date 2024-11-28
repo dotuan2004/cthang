@@ -65,23 +65,43 @@ namespace quản_lý_bán_hàng
         }
         public bool XoaKH(int mskh)
         {
+            SqlCommand command;
 
-            SqlCommand command = new SqlCommand("DELETE FROM KHACHHANG where mskh=" + mskh, mydb.getConnection);
-            mydb.openConnection();
-
-            if ((command.ExecuteNonQuery() == 1))
+            try
             {
-                mydb.closeConnection();
-                return true;
+                // Mở kết nối
+                mydb.openConnection();
 
+                // Xóa các bản ghi trong bảng HÓA ĐƠN có liên quan đến khách hàng
+                command = new SqlCommand("DELETE FROM HOADON WHERE mskh = @mskh", mydb.getConnection);
+                command.Parameters.AddWithValue("@mskh", mskh);
+                command.ExecuteNonQuery();
+
+                // Xóa các bản ghi trong bảng GIỎ HÀNG có liên quan đến khách hàng
+                command = new SqlCommand("DELETE FROM GIOHANG WHERE mskh = @mskh", mydb.getConnection);
+                command.Parameters.AddWithValue("@mskh", mskh);
+                command.ExecuteNonQuery();
+
+                // Xóa khách hàng từ bảng KHÁCH HÀNG
+                command = new SqlCommand("DELETE FROM KHACHHANG WHERE mskh = @mskh", mydb.getConnection);
+                command.Parameters.AddWithValue("@mskh", mskh);
+                int result = command.ExecuteNonQuery();
+
+                // Đóng kết nối
+                mydb.closeConnection();
+
+                // Trả về true nếu xóa thành công
+                return result > 0;
             }
-            else
+            catch (Exception ex)
             {
+                // Đóng kết nối khi có lỗi
                 mydb.closeConnection();
-                return false;
+                throw new Exception("Lỗi khi xóa khách hàng: " + ex.Message);
             }
-
         }
+
+
         public bool capnhatKH_chua_user_pass(int mskh, string hoten, string gioitinh, DateTime namsinh, string diachi, string sdt)
         {
 

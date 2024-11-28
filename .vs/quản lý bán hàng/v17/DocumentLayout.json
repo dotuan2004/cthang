@@ -3,7 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\admin\\themnvform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|c:\\users\\admin\\downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|solutionrelative:qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\quanlykhform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|solutionrelative:qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\quanlykhform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\quanlykhform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|solutionrelative:qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\quanlykhform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\kiguiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|solutionrelative:qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\kiguiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\mathangform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|solutionrelative:qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\mathangform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\resetform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|solutionrelative:qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\resetform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|c:\\users\\admin\\downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\admin\\themnvform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|solutionrelative:qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\admin\\themnvform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,16 +35,12 @@
       "RelativeMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|solutionrelative:qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\admin\\themnvform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|c:\\users\\admin\\downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\hoadonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\hoadonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|solutionrelative:qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\hoadonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\mathangform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|solutionrelative:qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\mathangform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\quanlykhform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|solutionrelative:qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\quanlykhform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\muahang\\giohangform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,22 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\cthdform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|solutionrelative:qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\cthdform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\quanlykhform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|solutionrelative:qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\quanlykhform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\resetform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|solutionrelative:qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\resetform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\mathangform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|solutionrelative:qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\mathangform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\kiguiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|solutionrelative:qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\kiguiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\hoadonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -170,70 +174,98 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HoaDonForm.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\HoaDonForm.cs",
-              "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\HoaDonForm.cs",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\HoaDonForm.cs",
-              "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\HoaDonForm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAgAAAA",
+              "DocumentIndex": 0,
+              "Title": "KHACHHANG.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\KHACHHANG.cs",
+              "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\KHACHHANG.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\KHACHHANG.cs",
+              "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\KHACHHANG.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAIwFQAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T08:08:18.883Z",
+              "WhenOpened": "2024-11-28T09:17:06.147Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DKiKHForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\DKiKHForm.cs",
-              "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\DKiKHForm.cs",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\DKiKHForm.cs [Design]",
-              "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\DKiKHForm.cs [Design]",
+              "DocumentIndex": 6,
+              "Title": "ThemNVForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\admin\\ThemNVForm.cs",
+              "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\admin\\ThemNVForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\admin\\ThemNVForm.cs",
+              "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\admin\\ThemNVForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T02:13:36.966Z"
+              "WhenOpened": "2024-11-27T02:22:30.58Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\Form1.cs",
-              "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\Form1.cs",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\Form1.cs [Design]",
-              "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\Form1.cs [Design]",
+              "DocumentIndex": 2,
+              "Title": "QuanLyKHForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\QuanLyKHForm.cs",
+              "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\QuanLyKHForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\QuanLyKHForm.cs [Design]",
+              "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\QuanLyKHForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T01:29:17.225Z"
+              "WhenOpened": "2024-11-27T01:56:31.446Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "GioHangForm.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\GioHangForm.cs",
-              "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\GioHangForm.cs",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\GioHangForm.cs",
-              "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\GioHangForm.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAnwBIAAAAUAAAA",
+              "Title": "ResetForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\ResetForm.cs",
+              "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\ResetForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\ResetForm.cs [Design]",
+              "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\ResetForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T04:14:28.933Z"
+              "WhenOpened": "2024-11-28T03:21:34.729Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MatHangForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\MatHangForm.cs",
+              "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\MatHangForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\MatHangForm.cs [Design]",
+              "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\MatHangForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T02:13:25.807Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MatHangForm.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\MatHangForm.cs",
-              "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\MatHangForm.cs",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\MatHangForm.cs",
-              "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\MatHangForm.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAAEIAAABXAAAA",
+              "Title": "KiGuiForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\KiGuiForm.cs",
+              "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\KiGuiForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\KiGuiForm.cs [Design]",
+              "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\KiGuiForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T03:15:41.086Z"
+              "WhenOpened": "2024-11-28T07:37:20.467Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "QuanLyKHForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\QuanLyKHForm.cs",
+              "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\QuanLyKHForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\QuanLyKHForm.cs",
+              "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\QuanLyKHForm.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAD4v5YAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:49:54.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ThemNVForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\admin\\ThemNVForm.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\admin\\ThemNVForm.cs",
@@ -245,31 +277,66 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ThemNVForm.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\admin\\ThemNVForm.cs",
-              "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\admin\\ThemNVForm.cs",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\admin\\ThemNVForm.cs",
-              "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\admin\\ThemNVForm.cs",
-              "ViewState": "AQIAAFkAAAAAAAAAAAAgwFIAAAAZAAAA",
+              "DocumentIndex": 9,
+              "Title": "MatHangForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\MatHangForm.cs",
+              "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\MatHangForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\MatHangForm.cs",
+              "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\MatHangForm.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEIAAABXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T02:22:30.58Z",
+              "WhenOpened": "2024-11-28T03:15:41.086Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "QuanLyKHForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\QuanLyKHForm.cs",
-              "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\QuanLyKHForm.cs",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\QuanLyKHForm.cs [Design]",
-              "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\QuanLyKHForm.cs [Design]",
+              "DocumentIndex": 10,
+              "Title": "GioHangForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\GioHangForm.cs",
+              "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\GioHangForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\GioHangForm.cs",
+              "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\GioHangForm.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAnwBIAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T01:56:31.446Z"
+              "WhenOpened": "2024-11-28T04:14:28.933Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\Form1.cs",
+              "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\Form1.cs [Design]",
+              "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T01:29:17.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DKiKHForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\DKiKHForm.cs",
+              "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\DKiKHForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\DKiKHForm.cs [Design]",
+              "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\DKiKHForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T02:13:36.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HoaDonForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\HoaDonForm.cs",
+              "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\HoaDonForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\HoaDonForm.cs",
+              "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\HoaDonForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:08:18.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "MenuForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MenuForm.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MenuForm.cs",
@@ -280,19 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "QuanLyKHForm.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\QuanLyKHForm.cs",
-              "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\QuanLyKHForm.cs",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\QuanLyKHForm.cs",
-              "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\QuanLyKHForm.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAYwDYAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T07:49:54.693Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "CTHDForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\CTHDForm.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\CTHDForm.cs",
@@ -303,7 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "MenuForm.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MenuForm.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MenuForm.cs",
@@ -315,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "LichSuMuaHangForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\LichSuMuaHangForm.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\LichSuMuaHangForm.cs",
@@ -326,29 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MatHangForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\MatHangForm.cs",
-              "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\MatHangForm.cs",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\MatHangForm.cs [Design]",
-              "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\MatHangForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T02:13:25.807Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "KiGuiForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\KiGuiForm.cs",
-              "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\KiGuiForm.cs",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\KiGuiForm.cs [Design]",
-              "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\KiGuiForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T07:37:20.467Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "HoaDonForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\HoaDonForm.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\HoaDonForm.cs",
@@ -359,18 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ResetForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\ResetForm.cs",
-              "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\ResetForm.cs",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\ResetForm.cs [Design]",
-              "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\ResetForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T03:21:34.729Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "GioHangForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\GioHangForm.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\GioHangForm.cs",
@@ -381,7 +403,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "KHForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\KHForm.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\KHForm.cs",
@@ -392,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "DoiMKForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\DoiMKForm.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\DoiMKForm.cs",
@@ -403,7 +425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "KHForm.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\KHForm.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\KHForm.cs",
@@ -415,7 +437,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "ChonGioHang.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\ChonGioHang.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\ChonGioHang.cs",
@@ -426,7 +448,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "ThanhToanForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\ThanhToanForm.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\ThanhToanForm.cs",
@@ -437,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "CheckmaAdminForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\CheckmaAdminForm.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\CheckmaAdminForm.cs",
@@ -448,7 +470,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "NHANVIEN.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\NHANVIEN.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\NHANVIEN.cs",
@@ -460,7 +482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "textBoxCustom.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\custom\\textBoxCustom.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\custom\\textBoxCustom.cs",
@@ -472,7 +494,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "Trans.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\custom\\Trans.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\custom\\Trans.cs",
@@ -484,7 +506,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "DKiKHForm.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\DKiKHForm.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\DKiKHForm.cs",
@@ -496,7 +518,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "ChamCongForm.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\admin\\ChamCongForm.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\admin\\ChamCongForm.cs",
@@ -508,7 +530,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "ChamCongForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\admin\\ChamCongForm.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\admin\\ChamCongForm.cs",
@@ -519,7 +541,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "customButton.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\custom\\customButton.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\custom\\customButton.cs",
@@ -531,7 +553,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "customButton.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\custom\\customButton.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\custom\\customButton.cs",
@@ -542,7 +564,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "textBoxCustom.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\custom\\textBoxCustom.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\custom\\textBoxCustom.cs",
@@ -553,7 +575,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "CustomTextbox.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\custom\\CustomTextbox.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\custom\\CustomTextbox.cs",
@@ -565,7 +587,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "ResetForm.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\ResetForm.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\ResetForm.cs",
@@ -573,11 +595,12 @@
               "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\ResetForm.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAQwDcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T03:21:41.386Z"
+              "WhenOpened": "2024-11-28T03:21:41.386Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "MY_DB.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\MY_DB.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\MY_DB.cs",
@@ -589,7 +612,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "QLNVForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\admin\\QLNVForm.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\admin\\QLNVForm.cs",
@@ -600,7 +623,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "QLNVForm.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\admin\\QLNVForm.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\admin\\QLNVForm.cs",
@@ -612,7 +635,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "packages.config",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\packages.config",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\packages.config",
@@ -624,7 +647,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\Form1.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\Form1.cs",
