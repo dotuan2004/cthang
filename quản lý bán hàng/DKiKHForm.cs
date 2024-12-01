@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -21,15 +22,25 @@ namespace quản_lý_bán_hàng
         {
 
         }
-
+        private string HashPassword(string password)
+        {
+            using (SHA256 sha256 = SHA256.Create())
+            {
+                byte[] bytes = sha256.ComputeHash(Encoding.UTF8.GetBytes(password));
+                StringBuilder builder = new StringBuilder();
+                foreach (byte b in bytes)
+                {
+                    builder.Append(b.ToString("x2")); // Chuyển byte sang dạng chuỗi hexa
+                }
+                return builder.ToString();
+            }
+        }
         private void buttonDki_Click(object sender, EventArgs e)
         {
             KHACHHANG kh = new KHACHHANG();
             if (verif() == false)
             {
                 MessageBox.Show("Nhập thông tin", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                //return false;
-
             }
             else
             {
@@ -41,8 +52,6 @@ namespace quản_lý_bán_hàng
                 }
                 else
                 {
-
-
                     string hoten = textBoxHoTen.Text;
                     string diachi = textBoxDiaChi.Text;
                     string gioitinh = "Nam";
@@ -53,26 +62,22 @@ namespace quản_lý_bán_hàng
                     }
                     int mskh = Convert.ToInt32(textBoxMaKH.Text);
                     string sdt = textBoxSDT.Text;
-
                     DateTime namsinh = dateTimePicker1.Value;
                     int born_year = dateTimePicker1.Value.Year;
                     int this_year = DateTime.Now.Year;
                     string user = textBoxUser.Text;
-                    string pass = textBoxPass.Text;
 
-                    //ràng buộc dữ liệu về năm xuất bản(ko cho người dùng nhập sai)
-                    //năm xuất bản < năm hiện tại
+                    // Mã hóa mật khẩu trước khi lưu
+                    string pass = HashPassword(textBoxPass.Text);  // Sử dụng hàm HashPassword để mã hóa mật khẩu
+
+                    // Ràng buộc dữ liệu về năm sinh
                     if (((this_year - born_year) < 18) || ((this_year - born_year) > 100))
                     {
                         MessageBox.Show("Độ tuổi phải trong khoảng 18-100", "Khách hàng", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
                     }
-
-                    //ràng buộc dữ liệu về năm xuất bản(ko cho người dùng nhập sai)
-                    //năm xuất bản < năm hiện tại
-
-                    if(kh.checkID(mskh)==true)
-                    {  
-                        if (kh.themKH(mskh, hoten, gioitinh, namsinh, diachi, sdt,user,pass))
+                    else if (kh.checkID(mskh) == true)
+                    {
+                        if (kh.themKH(mskh, hoten, gioitinh, namsinh, diachi, sdt, user, pass))
                         {
                             MessageBox.Show("Thêm thành công", "Khách hàng", MessageBoxButtons.OK, MessageBoxIcon.Information);
                             refresh();
@@ -89,6 +94,7 @@ namespace quản_lý_bán_hàng
                 }
             }
         }
+
         bool verif()
         {
             if ((textBoxMaKH.Text.Trim() == "") || (textBoxHoTen.Text.Trim() == "") || (textBoxDiaChi.Text.Trim() == "") || (textBoxSDT.Text.Trim() == ""))

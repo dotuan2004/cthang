@@ -5,6 +5,7 @@ using System.Data;
 using System.Drawing;
 using System.IO;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -29,6 +30,19 @@ namespace quản_lý_bán_hàng
             radioButtonNu.Checked = false;
             pictureBoxAnhDaiDien.Image = null;
         }
+        private string HashPassword(string password)
+        {
+            using (SHA256 sha256 = SHA256.Create())
+            {
+                byte[] bytes = sha256.ComputeHash(Encoding.UTF8.GetBytes(password));
+                StringBuilder builder = new StringBuilder();
+                foreach (byte b in bytes)
+                {
+                    builder.Append(b.ToString("x2")); // Chuyển byte sang dạng chuỗi hexa
+                }
+                return builder.ToString();
+            }
+        }
         private void buttonThem_Click(object sender, EventArgs e)
         {
             if (verif() == false)
@@ -50,7 +64,7 @@ namespace quản_lý_bán_hàng
                     string diachi = textBoxDiaChi.Text;
                     DateTime namsinh = dateTimePickerNamSinh.Value;
                     string username = textBoxUsername.Text;
-                    string password = textBoxPassword.Text;
+                    string password = HashPassword(textBoxPassword.Text); // Mã hóa mật khẩu
                     string gioitinh = "Nam";
 
                     if (radioButtonNu.Checked)
@@ -61,8 +75,7 @@ namespace quản_lý_bán_hàng
                     MemoryStream hinh = new MemoryStream();
                     int born_year = dateTimePickerNamSinh.Value.Year;
                     int this_year = DateTime.Now.Year;
-                    //ràng buộc dữ liệu về độ tuổi(ko cho người dùng nhập sai)
-                    //svv từ 10-100
+
                     if (((this_year - born_year) < 10) || ((this_year - born_year) > 100))
                     {
                         MessageBox.Show("Độ tuổi phải trong khoảng từ 10-100", "Nhập sai", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
@@ -74,7 +87,7 @@ namespace quản_lý_bán_hàng
                     else if (verif())
                     {
                         pictureBoxAnhDaiDien.Image.Save(hinh, pictureBoxAnhDaiDien.Image.RawFormat);
-                        if (nv.themNV(msnv,hoten,gioitinh,namsinh,diachi,hinh,username,password))
+                        if (nv.themNV(msnv, hoten, gioitinh, namsinh, diachi, hinh, username, password))
                         {
                             MessageBox.Show("Thêm thành công", "Nhân viên", MessageBoxButtons.OK, MessageBoxIcon.Information);
                             refresh();
@@ -91,6 +104,7 @@ namespace quản_lý_bán_hàng
                 }
             }
         }
+
 
         private void ButtonUpload_Click(object sender, EventArgs e)
         {

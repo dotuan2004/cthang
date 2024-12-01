@@ -63,6 +63,7 @@
     <Compile Include="admin\ChamCongForm.Designer.cs">
       <DependentUpon>ChamCongForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="admin\HashPassword.cs" />
     <Compile Include="class\CHAMCONG.cs" />
     <Compile Include="admin\KhoHangForm.cs">
       <SubType>Form</SubType>
