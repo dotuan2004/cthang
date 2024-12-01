@@ -6,6 +6,7 @@ using System.Data.SqlClient;
 using System.Drawing;
 using System.Linq;
 using System.Net.NetworkInformation;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
@@ -27,7 +28,19 @@ namespace quản_lý_bán_hàng
             Close();
         }
 
-
+        private string HashPassword(string password)
+        {
+            using (SHA256 sha256 = SHA256.Create())
+            {
+                byte[] bytes = sha256.ComputeHash(Encoding.UTF8.GetBytes(password));
+                StringBuilder builder = new StringBuilder();
+                for (int i = 0; i < bytes.Length; i++)
+                {
+                    builder.Append(bytes[i].ToString("x2"));
+                }
+                return builder.ToString();
+            }
+        }
         private void buttonLogin_Click(object sender, EventArgs e)
         {
             MY_DB mydb = new MY_DB();
@@ -57,9 +70,10 @@ namespace quản_lý_bán_hàng
             {
                 SqlDataAdapter adapter = new SqlDataAdapter();
                 DataTable table = new DataTable();
+                string hashedPassword = HashPassword(textBoxPassword.Text);
                 SqlCommand command = new SqlCommand("SELECT * FROM NHANVIEN WHERE username = @User AND password = @Pass", mydb.getConnection);
                 command.Parameters.Add("@User", SqlDbType.VarChar).Value = textBoxUsername.Text;
-                command.Parameters.Add("@Pass", SqlDbType.VarChar).Value = textBoxPassword.Text;
+                command.Parameters.Add("@Pass", SqlDbType.VarChar).Value = hashedPassword;
                 adapter.SelectCommand = command;
                 adapter.Fill(table);
                 if ((table.Rows.Count > 0))
@@ -87,9 +101,10 @@ namespace quản_lý_bán_hàng
             {
                 SqlDataAdapter adapter = new SqlDataAdapter();
                 DataTable table = new DataTable();
+                string hashedPassword = HashPassword(textBoxPassword.Text);
                 SqlCommand command = new SqlCommand("SELECT * FROM KHACHHANG WHERE username = @User AND password = @Pass", mydb.getConnection);
                 command.Parameters.Add("@User", SqlDbType.VarChar).Value = textBoxUsername.Text;
-                command.Parameters.Add("@Pass", SqlDbType.VarChar).Value = textBoxPassword.Text;
+                command.Parameters.Add("@Pass", SqlDbType.VarChar).Value = hashedPassword;
                 adapter.SelectCommand = command;
                 adapter.Fill(table);
                 if ((table.Rows.Count > 0))
