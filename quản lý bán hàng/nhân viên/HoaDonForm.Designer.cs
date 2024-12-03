@@ -34,7 +34,7 @@ namespace quản_lý_bán_hàng
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.chiTiếtHóaĐơnToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.buttonMokigui = new quản_lý_bán_hàng.customButton();
+            this.label8 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.textBoxMaKH = new quản_lý_bán_hàng.textBoxCustom();
             this.buttonHuyDon = new quản_lý_bán_hàng.customButton();
@@ -47,7 +47,6 @@ namespace quản_lý_bán_hàng
             this.textBoxMaNV = new quản_lý_bán_hàng.textBoxCustom();
             this.textBoxMaHD = new quản_lý_bán_hàng.textBoxCustom();
             this.label6 = new System.Windows.Forms.Label();
-            this.buttonKiGui = new quản_lý_bán_hàng.customButton();
             this.buttonThanhToan = new quản_lý_bán_hàng.customButton();
             this.label5 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
@@ -55,7 +54,6 @@ namespace quản_lý_bán_hàng
             this.label2 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
-            this.label8 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewHoaDon)).BeginInit();
             this.contextMenuStrip1.SuspendLayout();
             this.groupBox1.SuspendLayout();
@@ -97,7 +95,6 @@ namespace quản_lý_bán_hàng
             // 
             this.groupBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.groupBox1.Controls.Add(this.label8);
-            this.groupBox1.Controls.Add(this.buttonMokigui);
             this.groupBox1.Controls.Add(this.label7);
             this.groupBox1.Controls.Add(this.textBoxMaKH);
             this.groupBox1.Controls.Add(this.buttonHuyDon);
@@ -108,7 +105,6 @@ namespace quản_lý_bán_hàng
             this.groupBox1.Controls.Add(this.textBoxMaNV);
             this.groupBox1.Controls.Add(this.textBoxMaHD);
             this.groupBox1.Controls.Add(this.label6);
-            this.groupBox1.Controls.Add(this.buttonKiGui);
             this.groupBox1.Controls.Add(this.buttonThanhToan);
             this.groupBox1.Controls.Add(this.label5);
             this.groupBox1.Controls.Add(this.label4);
@@ -124,32 +120,21 @@ namespace quản_lý_bán_hàng
             this.groupBox1.Text = "Thanh toán";
             this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
             // 
-            // buttonMokigui
+            // label8
             // 
-            this.buttonMokigui.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(26)))), ((int)(((byte)(26)))));
-            this.buttonMokigui.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(26)))), ((int)(((byte)(26)))));
-            this.buttonMokigui.BoderRadius = 40;
-            this.buttonMokigui.BoderSize = 0;
-            this.buttonMokigui.BorderColor = System.Drawing.Color.PaleVioletRed;
-            this.buttonMokigui.FlatAppearance.BorderSize = 0;
-            this.buttonMokigui.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.buttonMokigui.ForeColor = System.Drawing.Color.White;
-            this.buttonMokigui.Location = new System.Drawing.Point(50, 549);
-            this.buttonMokigui.Name = "buttonMokigui";
-            this.buttonMokigui.ReadOnly = false;
-            this.buttonMokigui.Size = new System.Drawing.Size(327, 40);
-            this.buttonMokigui.TabIndex = 16;
-            this.buttonMokigui.Text = "Mở kí gửi";
-            this.buttonMokigui.TextColor = System.Drawing.Color.White;
-            this.buttonMokigui.UseVisualStyleBackColor = false;
-            this.buttonMokigui.Click += new System.EventHandler(this.buttonMokigui_Click);
+            this.label8.AutoSize = true;
+            this.label8.Location = new System.Drawing.Point(338, 351);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(34, 16);
+            this.label8.TabIndex = 17;
+            this.label8.Text = "VNĐ";
             // 
             // label7
             // 
             this.label7.AutoSize = true;
             this.label7.Location = new System.Drawing.Point(34, 50);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(107, 16);
+            this.label7.Size = new System.Drawing.Size(96, 16);
             this.label7.TabIndex = 15;
             this.label7.Text = "Mã khách hàng";
             // 
@@ -180,10 +165,10 @@ namespace quản_lý_bán_hàng
             this.buttonHuyDon.FlatAppearance.BorderSize = 0;
             this.buttonHuyDon.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonHuyDon.ForeColor = System.Drawing.Color.White;
-            this.buttonHuyDon.Location = new System.Drawing.Point(227, 481);
+            this.buttonHuyDon.Location = new System.Drawing.Point(50, 485);
             this.buttonHuyDon.Name = "buttonHuyDon";
             this.buttonHuyDon.ReadOnly = false;
-            this.buttonHuyDon.Size = new System.Drawing.Size(150, 40);
+            this.buttonHuyDon.Size = new System.Drawing.Size(327, 40);
             this.buttonHuyDon.TabIndex = 13;
             this.buttonHuyDon.Text = "Hủy đơn ";
             this.buttonHuyDon.TextColor = System.Drawing.Color.White;
@@ -303,29 +288,9 @@ namespace quản_lý_bán_hàng
             this.label6.AutoSize = true;
             this.label6.Location = new System.Drawing.Point(35, 249);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(98, 16);
+            this.label6.Size = new System.Drawing.Size(88, 16);
             this.label6.TabIndex = 5;
             this.label6.Text = "Tên nhân viên";
-            // 
-            // buttonKiGui
-            // 
-            this.buttonKiGui.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(26)))), ((int)(((byte)(26)))));
-            this.buttonKiGui.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(26)))), ((int)(((byte)(26)))));
-            this.buttonKiGui.BoderRadius = 40;
-            this.buttonKiGui.BoderSize = 0;
-            this.buttonKiGui.BorderColor = System.Drawing.Color.PaleVioletRed;
-            this.buttonKiGui.FlatAppearance.BorderSize = 0;
-            this.buttonKiGui.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.buttonKiGui.ForeColor = System.Drawing.Color.White;
-            this.buttonKiGui.Location = new System.Drawing.Point(50, 481);
-            this.buttonKiGui.Name = "buttonKiGui";
-            this.buttonKiGui.ReadOnly = false;
-            this.buttonKiGui.Size = new System.Drawing.Size(150, 40);
-            this.buttonKiGui.TabIndex = 4;
-            this.buttonKiGui.Text = "Kí gửi";
-            this.buttonKiGui.TextColor = System.Drawing.Color.White;
-            this.buttonKiGui.UseVisualStyleBackColor = false;
-            this.buttonKiGui.Click += new System.EventHandler(this.buttonKiGui_Click);
             // 
             // buttonThanhToan
             // 
@@ -352,7 +317,7 @@ namespace quản_lý_bán_hàng
             this.label5.AutoSize = true;
             this.label5.Location = new System.Drawing.Point(34, 302);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(113, 16);
+            this.label5.Size = new System.Drawing.Size(101, 16);
             this.label5.TabIndex = 1;
             this.label5.Text = "Ngày thanh toán";
             this.label5.Click += new System.EventHandler(this.label5_Click);
@@ -362,7 +327,7 @@ namespace quản_lý_bán_hàng
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(34, 353);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(68, 16);
+            this.label4.Size = new System.Drawing.Size(61, 16);
             this.label4.TabIndex = 0;
             this.label4.Text = "Tổng tiền";
             // 
@@ -371,7 +336,7 @@ namespace quản_lý_bán_hàng
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(35, 184);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(112, 16);
+            this.label3.Size = new System.Drawing.Size(101, 16);
             this.label3.TabIndex = 0;
             this.label3.Text = "Mã số nhân viên";
             // 
@@ -380,7 +345,7 @@ namespace quản_lý_bán_hàng
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(34, 121);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(84, 16);
+            this.label2.Size = new System.Drawing.Size(75, 16);
             this.label2.TabIndex = 0;
             this.label2.Text = "Mã hóa đơn";
             // 
@@ -404,15 +369,6 @@ namespace quản_lý_bán_hàng
             this.label1.Size = new System.Drawing.Size(245, 31);
             this.label1.TabIndex = 0;
             this.label1.Text = "Thông tin hóa đơn";
-            // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(338, 351);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(37, 16);
-            this.label8.TabIndex = 17;
-            this.label8.Text = "VNĐ";
             // 
             // HoaDonForm
             // 
@@ -451,7 +407,6 @@ namespace quản_lý_bán_hàng
         public System.Windows.Forms.Label labelNhanVien;
         public System.Windows.Forms.PictureBox pictureBoxNhanVien;
         public customButton buttonHuyDon;
-        public customButton buttonKiGui;
         public customButton buttonThanhToan;
         public System.Windows.Forms.DateTimePicker dateTimePickerNgayThanhToan;
         public textBoxCustom textBoxTongTien;
@@ -462,7 +417,6 @@ namespace quản_lý_bán_hàng
         public textBoxCustom textBoxMaKH;
         private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
         private System.Windows.Forms.ToolStripMenuItem chiTiếtHóaĐơnToolStripMenuItem;
-        public customButton buttonMokigui;
         private System.Windows.Forms.Label label8;
     }
 }

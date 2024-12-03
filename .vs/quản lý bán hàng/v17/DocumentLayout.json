@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "D:\\cthang\\cthang\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|d:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\hoadonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|solutionrelative:qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\hoadonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\quanlykhform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|solutionrelative:qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\quanlykhform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|solutionrelative:qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|solutionrelative:qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|solutionrelative:qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|solutionrelative:qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\muahang\\muahang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|solutionrelative:qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\muahang\\muahang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,7 +59,7 @@
       "RelativeMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|solutionrelative:qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\mathangform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|d:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|solutionrelative:qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -59,16 +83,8 @@
       "RelativeMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|solutionrelative:qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\admin\\themnvform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|solutionrelative:qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\admin\\xoanvform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|solutionrelative:qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\admin\\xoanvform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|solutionrelative:qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\admin\\qlnvform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -81,10 +97,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\quanlykhform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|solutionrelative:qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\quanlykhform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\quanlykhform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|solutionrelative:qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\quanlykhform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\kiguiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -113,10 +125,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\cthdform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|solutionrelative:qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\cthdform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\hoadonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|solutionrelative:qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\hoadonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E141285C-60E5-4FB5-9ADC-001BFE4E9604}|qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng.csproj|D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\doimkform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -186,36 +194,105 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MatHangForm.cs",
-              "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\MatHangForm.cs",
-              "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\MatHangForm.cs",
-              "ToolTip": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\MatHangForm.cs",
-              "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\MatHangForm.cs",
-              "ViewState": "AQIAAIkAAAAAAAAAAAApwJUAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T03:15:41.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "KHForm.cs [Design]",
-              "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\KHForm.cs",
-              "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\KHForm.cs",
-              "ToolTip": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\KHForm.cs [Design]",
-              "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\KHForm.cs [Design]",
+              "Title": "HOADON.cs",
+              "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\HOADON.cs",
+              "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\HOADON.cs",
+              "ToolTip": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\HOADON.cs",
+              "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\HOADON.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T02:13:10.217Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-03T06:56:22.864Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "GLOBALS.cs",
+              "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\GLOBALS.cs",
+              "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\GLOBALS.cs",
+              "ToolTip": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\GLOBALS.cs",
+              "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\GLOBALS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:56:21.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MUAHANG.cs",
+              "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\MUAHANG.cs",
+              "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\MUAHANG.cs",
+              "ToolTip": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\MUAHANG.cs",
+              "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\MUAHANG.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:15:07.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KHACHHANG.cs",
+              "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\KHACHHANG.cs",
+              "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\KHACHHANG.cs",
+              "ToolTip": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\KHACHHANG.cs",
+              "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\KHACHHANG.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:17:06.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NHANVIEN.cs",
+              "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\NHANVIEN.cs",
+              "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\NHANVIEN.cs",
+              "ToolTip": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\NHANVIEN.cs",
+              "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\NHANVIEN.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T02:00:51.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuanLyKHForm.cs [Design]",
+              "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\QuanLyKHForm.cs",
+              "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\QuanLyKHForm.cs",
+              "ToolTip": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\QuanLyKHForm.cs [Design]",
+              "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\QuanLyKHForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T01:56:31.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HoaDonForm.cs [Design]",
+              "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\HoaDonForm.cs",
+              "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\HoaDonForm.cs",
+              "ToolTip": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\HoaDonForm.cs [Design]",
+              "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\HoaDonForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T02:11:51.91Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChonGioHang.cs [Design]",
+              "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\ChonGioHang.cs",
+              "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\ChonGioHang.cs",
+              "ToolTip": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\ChonGioHang.cs [Design]",
+              "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\ChonGioHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T04:10:06.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "KHForm.cs",
               "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\KHForm.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\KHForm.cs",
@@ -223,49 +300,45 @@
               "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\KHForm.cs",
               "ViewState": "AQIAAC8AAAAAAAAAAADwvzsAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T04:10:27.386Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T04:10:27.386Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MUAHANG.cs",
-              "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\MUAHANG.cs",
-              "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\MUAHANG.cs",
-              "ToolTip": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\MUAHANG.cs",
-              "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\MUAHANG.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "DocumentIndex": 10,
+              "Title": "KHForm.cs [Design]",
+              "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\KHForm.cs",
+              "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\KHForm.cs",
+              "ToolTip": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\KHForm.cs [Design]",
+              "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\KHForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T18:15:07.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T02:13:10.217Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ChonGioHang.cs [Design]",
-              "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\ChonGioHang.cs",
-              "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\ChonGioHang.cs",
-              "ToolTip": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\ChonGioHang.cs [Design]",
-              "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\ChonGioHang.cs [Design]",
+              "DocumentIndex": 12,
+              "Title": "MatHangForm.cs",
+              "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\MatHangForm.cs",
+              "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\MatHangForm.cs",
+              "ToolTip": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\MatHangForm.cs",
+              "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\MatHangForm.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAApwJUAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T04:10:06.134Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-28T03:15:41.086Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "GioHangForm.cs [Design]",
               "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\GioHangForm.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\GioHangForm.cs",
               "ToolTip": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\GioHangForm.cs [Design]",
               "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\GioHangForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T02:13:07.777Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-27T02:13:07.777Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "GioHangForm.cs",
               "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\GioHangForm.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\GioHangForm.cs",
@@ -273,24 +346,22 @@
               "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\GioHangForm.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAAwCUAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T04:14:28.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T04:14:28.933Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "MatHangForm.cs [Design]",
               "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\MatHangForm.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\MatHangForm.cs",
               "ToolTip": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\MatHangForm.cs [Design]",
               "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\MatHangForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T02:13:25.807Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-27T02:13:25.807Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "DKiKHForm.cs [Design]",
               "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\DKiKHForm.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\DKiKHForm.cs",
@@ -300,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\Form1.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\Form1.cs",
@@ -308,24 +379,22 @@
               "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\Form1.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAAA8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T01:29:31.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T01:29:31.564Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\Form1.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\Form1.cs",
               "ToolTip": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\Form1.cs [Design]",
               "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T01:29:17.225Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-27T01:29:17.225Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "ThemNVForm.cs [Design]",
               "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\admin\\ThemNVForm.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\admin\\ThemNVForm.cs",
@@ -335,19 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "KHACHHANG.cs",
-              "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\KHACHHANG.cs",
-              "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\KHACHHANG.cs",
-              "ToolTip": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\KHACHHANG.cs",
-              "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\KHACHHANG.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T09:17:06.147Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "QLNVForm.cs [Design]",
               "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\admin\\QLNVForm.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\admin\\QLNVForm.cs",
@@ -357,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "DKiKHForm.cs",
               "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\DKiKHForm.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\DKiKHForm.cs",
@@ -369,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "ThemNVForm.cs",
               "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\admin\\ThemNVForm.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\admin\\ThemNVForm.cs",
@@ -381,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "XoaNVForm.cs [Design]",
               "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\admin\\XoaNVForm.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\admin\\XoaNVForm.cs",
@@ -391,19 +448,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "NHANVIEN.cs",
-              "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\NHANVIEN.cs",
-              "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\NHANVIEN.cs",
-              "ToolTip": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\NHANVIEN.cs",
-              "RelativeToolTip": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\NHANVIEN.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T02:00:51.499Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "KiGuiForm.cs [Design]",
               "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\KiGuiForm.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\KiGuiForm.cs",
@@ -413,7 +458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "HashPassword.cs",
               "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\admin\\HashPassword.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\admin\\HashPassword.cs",
@@ -425,7 +470,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "ResetForm.cs [Design]",
               "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\ResetForm.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\ResetForm.cs",
@@ -435,17 +480,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "QuanLyKHForm.cs [Design]",
-              "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\QuanLyKHForm.cs",
-              "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\QuanLyKHForm.cs",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\QuanLyKHForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T01:56:31.446Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "QuanLyKHForm.cs",
               "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\QuanLyKHForm.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\QuanLyKHForm.cs",
@@ -457,7 +492,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "HoaDonForm.cs",
               "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\HoaDonForm.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\HoaDonForm.cs",
@@ -469,7 +504,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "MenuForm.cs [Design]",
               "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MenuForm.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MenuForm.cs",
@@ -479,7 +514,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "CTHDForm.cs [Design]",
               "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\CTHDForm.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\CTHDForm.cs",
@@ -489,7 +524,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "MenuForm.cs",
               "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MenuForm.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MenuForm.cs",
@@ -501,7 +536,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "LichSuMuaHangForm.cs [Design]",
               "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\LichSuMuaHangForm.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\LichSuMuaHangForm.cs",
@@ -511,17 +546,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "HoaDonForm.cs [Design]",
-              "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\HoaDonForm.cs",
-              "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\HoaDonForm.cs",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng sharecode.vn\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\HoaDonForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T02:11:51.91Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "DoiMKForm.cs [Design]",
               "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\DoiMKForm.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\DoiMKForm.cs",
@@ -531,7 +556,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "ThanhToanForm.cs [Design]",
               "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\ThanhToanForm.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\MuaHang\\ThanhToanForm.cs",
@@ -541,7 +566,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "CheckmaAdminForm.cs [Design]",
               "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\CheckmaAdminForm.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\CheckmaAdminForm.cs",
@@ -551,7 +576,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "textBoxCustom.cs",
               "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\custom\\textBoxCustom.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\custom\\textBoxCustom.cs",
@@ -563,7 +588,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "Trans.cs",
               "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\custom\\Trans.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\custom\\Trans.cs",
@@ -575,7 +600,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "ChamCongForm.cs",
               "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\admin\\ChamCongForm.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\admin\\ChamCongForm.cs",
@@ -587,7 +612,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "ChamCongForm.cs [Design]",
               "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\admin\\ChamCongForm.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\admin\\ChamCongForm.cs",
@@ -597,7 +622,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "customButton.cs",
               "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\custom\\customButton.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\custom\\customButton.cs",
@@ -609,7 +634,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "customButton.cs [Design]",
               "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\custom\\customButton.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\custom\\customButton.cs",
@@ -619,7 +644,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "textBoxCustom.cs [Design]",
               "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\custom\\textBoxCustom.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\custom\\textBoxCustom.cs",
@@ -629,7 +654,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "CustomTextbox.cs",
               "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\custom\\CustomTextbox.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\custom\\CustomTextbox.cs",
@@ -641,7 +666,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "ResetForm.cs",
               "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\ResetForm.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\nh\u00E2n vi\u00EAn\\ResetForm.cs",
@@ -653,7 +678,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "MY_DB.cs",
               "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\MY_DB.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\class\\MY_DB.cs",
@@ -665,7 +690,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "QLNVForm.cs",
               "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\admin\\QLNVForm.cs",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\admin\\QLNVForm.cs",
@@ -677,7 +702,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "packages.config",
               "DocumentMoniker": "D:\\cthang\\cthang\\qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\packages.config",
               "RelativeDocumentMoniker": "qu\u1EA3n l\u00FD b\u00E1n h\u00E0ng\\packages.config",
