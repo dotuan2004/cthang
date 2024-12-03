@@ -34,62 +34,59 @@ namespace quản_lý_bán_hàng
         }
         private void buttonThem_Click(object sender, EventArgs e)
         {
-            if (magh == 0)
+            if (checkrong() == false)
             {
-                MessageBox.Show("Vui lòng chọn giỏ hàng để mua sắm", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Vui lòng điền đầy đủ thông mặt hàng", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
             }
             else
             {
-               
-                if (checkrong() == false)
+                try
                 {
-                    MessageBox.Show("Vui lòng điền đầy đủ thông mặt hàng", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
-                }
-                else
-                {
-                    try
+                    // Lấy thông tin từ form
+                    int mskh = GLOBALS.GlobalUserId; // Lấy ID người dùng toàn cầu
+                    string tenhang = textBoxTenHang.Text;
+                    int mahang = Convert.ToInt32(textBoxMaHang.Text);
+                    double gia = Convert.ToDouble(textBoxGia.Text);
+                    int soluong = Convert.ToInt32(numericSoLuong.Text);
+                    double tonggia = gia * soluong;
+
+                    // Áp dụng mã giảm giá nếu có
+                    if (check2 == true) // Kiểm tra xem có áp dụng mã giảm giá
                     {
-                        int mskh = GLOBALS.GlobalUserId;
-                        string tenhang = textBoxTenHang.Text;
-                        int mahang = Convert.ToInt32(textBoxMaHang.Text);
-                        int magiohang = magh;
-                        double gia = Convert.ToDouble(textBoxGia.Text);
-                        int soluong = Convert.ToInt32(numericSoLuong.Text);
-                        double tonggia = gia * soluong;
-                        if (check2 == true) //áp dụng mã giảm giá
-                        {
-                            tonggia = tonggia - tonggia * coupon;
-                        }
-                        if (muahang.themhangvaogio(magiohang, mahang, tenhang, soluong, tonggia, mskh))
-                        {
-                            //muahang.lichsugiohang(magiohang, mahang, tenhang, soluong, tonggia, mskh);
-                            MessageBox.Show("Thêm thành công", "Hàng hóa", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                            giohang();
-                            refresh();
-                            refresh2();
-                        }
-                        else
-                        {
-                            MessageBox.Show("Lỗi", "Hàng hóa", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                        }
-                    }
-                    catch
-                    {
-                        MessageBox.Show("Vui lòng kiểm tra lại thông tin nhập", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        tonggia = tonggia - tonggia * coupon;
                     }
 
-                }
-                bool checkrong()
-                {
-                    if (textBoxGia.Text.Trim() == "" || textBoxMaHang.Text.Trim() == "" || pictureBoxHinh.Image == null)
+                    // Thêm hàng vào giỏ hàng
+                    if (muahang.themhangvaogio(magh, mahang, tenhang, soluong, tonggia, mskh))
                     {
-                        return false;
+                        MessageBox.Show("Thêm thành công", "Hàng hóa", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                        giohang(); // Cập nhật giỏ hàng
+                        refresh();  // Làm mới các trường dữ liệu
+                        refresh2(); // Làm mới các trường khác nếu cần
                     }
                     else
-                        return true;
+                    {
+                        MessageBox.Show("Lỗi", "Hàng hóa", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    }
+                }
+                catch
+                {
+                    MessageBox.Show("Vui lòng kiểm tra lại thông tin nhập", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
         }
+
+        // Hàm kiểm tra xem các trường có bị thiếu hay không
+        bool checkrong()
+        {
+            if (textBoxGia.Text.Trim() == "" || textBoxMaHang.Text.Trim() == "" || pictureBoxHinh.Image == null)
+            {
+                return false;
+            }
+            else
+                return true;
+        }
+
 
         private void dataGridViewMatHang_CellClick(object sender, DataGridViewCellEventArgs e)
         {

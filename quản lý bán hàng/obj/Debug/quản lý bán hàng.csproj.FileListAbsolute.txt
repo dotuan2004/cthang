@@ -74,3 +74,41 @@ C:\Users\Admin\Downloads\quản lý bán hàng sharecode.vn\quản lý bán hàn
 C:\Users\Admin\Downloads\quản lý bán hàng sharecode.vn\quản lý bán hàng\quản lý bán hàng\obj\Debug\quản lý .BEBC1EED.Up2Date
 C:\Users\Admin\Downloads\quản lý bán hàng sharecode.vn\quản lý bán hàng\quản lý bán hàng\obj\Debug\quản lý bán hàng.exe
 C:\Users\Admin\Downloads\quản lý bán hàng sharecode.vn\quản lý bán hàng\quản lý bán hàng\obj\Debug\quản lý bán hàng.pdb
+D:\cthang\cthang\quản lý bán hàng\bin\Debug\quản lý bán hàng.exe.config
+D:\cthang\cthang\quản lý bán hàng\bin\Debug\quản lý bán hàng.exe
+D:\cthang\cthang\quản lý bán hàng\bin\Debug\quản lý bán hàng.pdb
+D:\cthang\cthang\quản lý bán hàng\bin\Debug\DocumentFormat.OpenXml.dll
+D:\cthang\cthang\quản lý bán hàng\bin\Debug\DocumentFormat.OpenXml.xml
+D:\cthang\cthang\quản lý bán hàng\obj\Debug\quản lý bán hàng.csproj.AssemblyReference.cache
+D:\cthang\cthang\quản lý bán hàng\obj\Debug\quản lý bán hàng.csproj.ResolveComReference.cache
+D:\cthang\cthang\quản lý bán hàng\obj\Debug\quản_lý_bán_hàng.ChamCongForm.resources
+D:\cthang\cthang\quản lý bán hàng\obj\Debug\quản_lý_bán_hàng.KhoHangForm.resources
+D:\cthang\cthang\quản lý bán hàng\obj\Debug\quản_lý_bán_hàng.CTHDForm.resources
+D:\cthang\cthang\quản lý bán hàng\obj\Debug\quản_lý_bán_hàng.DKiKHForm.resources
+D:\cthang\cthang\quản lý bán hàng\obj\Debug\quản_lý_bán_hàng.LichSuMuaHangForm.resources
+D:\cthang\cthang\quản lý bán hàng\obj\Debug\quản_lý_bán_hàng.KiGuiForm.resources
+D:\cthang\cthang\quản lý bán hàng\obj\Debug\quản_lý_bán_hàng.ChonGioHang.resources
+D:\cthang\cthang\quản lý bán hàng\obj\Debug\quản_lý_bán_hàng.CheckmaAdminForm.resources
+D:\cthang\cthang\quản lý bán hàng\obj\Debug\quản_lý_bán_hàng.DoiMKForm.resources
+D:\cthang\cthang\quản lý bán hàng\obj\Debug\quản_lý_bán_hàng.Form1.resources
+D:\cthang\cthang\quản lý bán hàng\obj\Debug\quản_lý_bán_hàng.HoaDonForm.resources
+D:\cthang\cthang\quản lý bán hàng\obj\Debug\quản_lý_bán_hàng.GioHangForm.resources
+D:\cthang\cthang\quản lý bán hàng\obj\Debug\quản_lý_bán_hàng.KHForm.resources
+D:\cthang\cthang\quản lý bán hàng\obj\Debug\quản_lý_bán_hàng.MatHangForm.resources
+D:\cthang\cthang\quản lý bán hàng\obj\Debug\quản_lý_bán_hàng.MenuForm.resources
+D:\cthang\cthang\quản lý bán hàng\obj\Debug\quản_lý_bán_hàng.Properties.Resources.resources
+D:\cthang\cthang\quản lý bán hàng\obj\Debug\quản_lý_bán_hàng.QuanLyKHForm.resources
+D:\cthang\cthang\quản lý bán hàng\obj\Debug\quản_lý_bán_hàng.ResetForm.resources
+D:\cthang\cthang\quản lý bán hàng\obj\Debug\quản_lý_bán_hàng.ThanhToanForm.resources
+D:\cthang\cthang\quản lý bán hàng\obj\Debug\quản_lý_bán_hàng.ThemNVForm.resources
+D:\cthang\cthang\quản lý bán hàng\obj\Debug\quản_lý_bán_hàng.QLNVForm.resources
+D:\cthang\cthang\quản lý bán hàng\obj\Debug\quản_lý_bán_hàng.XoaNVForm.resources
+D:\cthang\cthang\quản lý bán hàng\obj\Debug\quản_lý_bán_hàng.QuanLyForm.resources
+D:\cthang\cthang\quản lý bán hàng\obj\Debug\quản_lý_bán_hàng.QuanLyMaGiamGiaForm.resources
+D:\cthang\cthang\quản lý bán hàng\obj\Debug\quản_lý_bán_hàng.ThongKeDoanhThuForm.resources
+D:\cthang\cthang\quản lý bán hàng\obj\Debug\quản_lý_bán_hàng.ThongKeMatHangForm.resources
+D:\cthang\cthang\quản lý bán hàng\obj\Debug\quản lý bán hàng.csproj.GenerateResource.cache
+D:\cthang\cthang\quản lý bán hàng\obj\Debug\quản lý bán hàng.csproj.CoreCompileInputs.cache
+D:\cthang\cthang\quản lý bán hàng\obj\Debug\quản lý .BEBC1EED.Up2Date
+D:\cthang\cthang\quản lý bán hàng\obj\Debug\quản lý bán hàng.exe
+D:\cthang\cthang\quản lý bán hàng\obj\Debug\quản lý bán hàng.pdb

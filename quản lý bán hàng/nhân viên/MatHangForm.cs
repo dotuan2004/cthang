@@ -195,7 +195,7 @@ namespace quản_lý_bán_hàng
         {
             if (checkrong() == false)
             {
-                MessageBox.Show("Vui lòng điền đầy đủ thông mặt hàng", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                MessageBox.Show("Vui lòng điền đầy đủ thông tin mặt hàng", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
             }
             else
             {
@@ -209,25 +209,23 @@ namespace quản_lý_bán_hàng
                     if (pictureBoxHinh.Image == null)
                         throw new Exception("Vui lòng chọn hình ảnh.");
 
+                    // Chuyển đổi hình ảnh sang MemoryStream
                     MemoryStream pic = new MemoryStream();
                     pictureBoxHinh.Image.Save(pic, pictureBoxHinh.Image.RawFormat);
 
-                    double gia = double.TryParse(textBoxGia.Text, out gia) ? gia : throw new FormatException("Giá không hợp lệ.");
+                    // Chuyển đổi giá trị giá
+                    double gia = double.TryParse(textBoxGia.Text.Replace(",", "").Replace(".", ""), out gia) ? gia : throw new FormatException("Giá không hợp lệ.");
                     int soluong = int.TryParse(textBoxSL.Text, out soluong) ? soluong : throw new FormatException("Số lượng không hợp lệ.");
 
-                    // Kiểm tra tên mặt hàng
-                    if (mathang.checkten(tenhang) == false)
-                    {
-                        MessageBox.Show("Kiểm tra thông tin bị trùng tên hàng", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
-                    }
-                    else if (mathang.updateHang(mahang, loaihang, tenhang, pic, gia, soluong))
+                    // Bỏ qua kiểm tra trùng tên
+                    if (mathang.updateHang(mahang, loaihang, tenhang, pic, gia, soluong))
                     {
                         MessageBox.Show("Đã chỉnh sửa", "Hàng hóa", MessageBoxButtons.OK, MessageBoxIcon.Information);
                         refresh();
                     }
                     else
                     {
-                        MessageBox.Show("Lỗi", "Hàng hóa", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        MessageBox.Show("Lỗi khi chỉnh sửa", "Hàng hóa", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     }
                 }
                 catch (FormatException ex)
@@ -240,6 +238,8 @@ namespace quản_lý_bán_hàng
                 }
             }
         }
+
+
 
 
         private void buttonXoa_Click(object sender, EventArgs e)
@@ -273,10 +273,37 @@ namespace quản_lý_bán_hàng
 
         private void buttonReset_Click(object sender, EventArgs e)
         {
+            // Hiển thị ResetForm như một hộp thoại
             ResetForm reset = new ResetForm();
-            reset.ShowDialog();
+
+            // Lắng nghe sự kiện đóng hoặc hoàn tất của ResetForm
+            var dialogResult = reset.ShowDialog();
+
+            // Kiểm tra kết quả từ form ResetForm
+            if (dialogResult == DialogResult.OK)
+            {
+                // Nếu người dùng bấm "OK" trong ResetForm, làm mới dữ liệu form chính
+
+                // Thiết lập lại các giá trị của các điều khiển trên form
+                textBoxMaHang.Text = "";
+                textBoxTenMH.Text = "";
+                textBoxGia.Text = "";
+                textBoxSL.Text = "";
+                comboBoxLoaiHang.SelectedIndex = -1;
+                pictureBoxHinh.Image = null;
+
+                MessageBox.Show("Form đã được reset!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            else
+            {
+                // Nếu người dùng bấm "Cancel" hoặc đóng form
+                MessageBox.Show("Reset đã bị hủy.", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+
+            // Đảm bảo form chính lấy lại focus
             this.Focus();
         }
+
 
         private void panel4_Paint(object sender, PaintEventArgs e)
         {

@@ -33,6 +33,9 @@ namespace quản_lý_bán_hàng
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(KHForm));
             this.labelKH = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.labelKhuyenMai = new System.Windows.Forms.Label();
+            this.buttonThoat = new quản_lý_bán_hàng.customButton();
+            this.buttonDangXuat = new quản_lý_bán_hàng.customButton();
             this.pictureBoxGioHang = new System.Windows.Forms.PictureBox();
             this.numericSoLuong = new System.Windows.Forms.NumericUpDown();
             this.label4 = new System.Windows.Forms.Label();
@@ -41,22 +44,18 @@ namespace quản_lý_bán_hàng
             this.label6 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.label8 = new System.Windows.Forms.Label();
-            this.pictureBoxHinh = new System.Windows.Forms.PictureBox();
-            this.labelGioHang = new System.Windows.Forms.Label();
-            this.groupBoxMuaHang = new System.Windows.Forms.GroupBox();
-            this.dataGridViewMatHang = new System.Windows.Forms.DataGridView();
-            this.labelKhuyenMai = new System.Windows.Forms.Label();
-            this.timer1 = new System.Windows.Forms.Timer(this.components);
-            this.buttonThoat = new quản_lý_bán_hàng.customButton();
-            this.buttonDangXuat = new quản_lý_bán_hàng.customButton();
-            this.buttonChonGH = new quản_lý_bán_hàng.customButton();
             this.buttonXacNhan = new quản_lý_bán_hàng.customButton();
+            this.label8 = new System.Windows.Forms.Label();
             this.textBoxMaGG = new quản_lý_bán_hàng.textBoxCustom();
             this.textBoxGia = new quản_lý_bán_hàng.textBoxCustom();
             this.textBoxTenHang = new quản_lý_bán_hàng.textBoxCustom();
             this.textBoxMaHang = new quản_lý_bán_hàng.textBoxCustom();
             this.buttonThem = new quản_lý_bán_hàng.customButton();
+            this.pictureBoxHinh = new System.Windows.Forms.PictureBox();
+            this.labelGioHang = new System.Windows.Forms.Label();
+            this.groupBoxMuaHang = new System.Windows.Forms.GroupBox();
+            this.dataGridViewMatHang = new System.Windows.Forms.DataGridView();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxGioHang)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericSoLuong)).BeginInit();
@@ -90,153 +89,6 @@ namespace quản_lý_bán_hàng
             this.panel1.Size = new System.Drawing.Size(1115, 105);
             this.panel1.TabIndex = 6;
             // 
-            // pictureBoxGioHang
-            // 
-            this.pictureBoxGioHang.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBoxGioHang.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxGioHang.Image")));
-            this.pictureBoxGioHang.Location = new System.Drawing.Point(11, 3);
-            this.pictureBoxGioHang.Name = "pictureBoxGioHang";
-            this.pictureBoxGioHang.Size = new System.Drawing.Size(132, 99);
-            this.pictureBoxGioHang.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBoxGioHang.TabIndex = 4;
-            this.pictureBoxGioHang.TabStop = false;
-            this.pictureBoxGioHang.Click += new System.EventHandler(this.pictureBoxGioHang_Click);
-            // 
-            // numericSoLuong
-            // 
-            this.numericSoLuong.Location = new System.Drawing.Point(140, 206);
-            this.numericSoLuong.Name = "numericSoLuong";
-            this.numericSoLuong.Size = new System.Drawing.Size(65, 22);
-            this.numericSoLuong.TabIndex = 2;
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(23, 329);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(42, 16);
-            this.label4.TabIndex = 0;
-            this.label4.Text = "Hình:";
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(23, 211);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(69, 16);
-            this.label3.TabIndex = 0;
-            this.label3.Text = "Số lượng:";
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(23, 269);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(111, 16);
-            this.label2.TabIndex = 0;
-            this.label2.Text = "Giá(số lượng 1):";
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(23, 95);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(68, 16);
-            this.label6.TabIndex = 0;
-            this.label6.Text = "Mã hàng:";
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(23, 155);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(73, 16);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Tên hàng:";
-            // 
-            // panel2
-            // 
-            this.panel2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            this.panel2.Controls.Add(this.buttonChonGH);
-            this.panel2.Controls.Add(this.buttonXacNhan);
-            this.panel2.Controls.Add(this.label8);
-            this.panel2.Controls.Add(this.textBoxMaGG);
-            this.panel2.Controls.Add(this.textBoxGia);
-            this.panel2.Controls.Add(this.textBoxTenHang);
-            this.panel2.Controls.Add(this.textBoxMaHang);
-            this.panel2.Controls.Add(this.buttonThem);
-            this.panel2.Controls.Add(this.pictureBoxHinh);
-            this.panel2.Controls.Add(this.numericSoLuong);
-            this.panel2.Controls.Add(this.labelGioHang);
-            this.panel2.Controls.Add(this.label4);
-            this.panel2.Controls.Add(this.label3);
-            this.panel2.Controls.Add(this.label2);
-            this.panel2.Controls.Add(this.label6);
-            this.panel2.Controls.Add(this.label1);
-            this.panel2.Location = new System.Drawing.Point(3, 18);
-            this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(344, 690);
-            this.panel2.TabIndex = 0;
-            // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(29, 579);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(85, 16);
-            this.label8.TabIndex = 10;
-            this.label8.Text = "Mã giảm giá";
-            // 
-            // pictureBoxHinh
-            // 
-            this.pictureBoxHinh.BackColor = System.Drawing.Color.White;
-            this.pictureBoxHinh.Location = new System.Drawing.Point(140, 329);
-            this.pictureBoxHinh.Name = "pictureBoxHinh";
-            this.pictureBoxHinh.Size = new System.Drawing.Size(163, 140);
-            this.pictureBoxHinh.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBoxHinh.TabIndex = 3;
-            this.pictureBoxHinh.TabStop = false;
-            // 
-            // labelGioHang
-            // 
-            this.labelGioHang.AutoSize = true;
-            this.labelGioHang.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.labelGioHang.Location = new System.Drawing.Point(178, 28);
-            this.labelGioHang.Name = "labelGioHang";
-            this.labelGioHang.Size = new System.Drawing.Size(106, 25);
-            this.labelGioHang.TabIndex = 0;
-            this.labelGioHang.Text = "Giỏ hàng:";
-            this.labelGioHang.Click += new System.EventHandler(this.labelGioHang_Click);
-            // 
-            // groupBoxMuaHang
-            // 
-            this.groupBoxMuaHang.Controls.Add(this.panel2);
-            this.groupBoxMuaHang.Location = new System.Drawing.Point(1109, 0);
-            this.groupBoxMuaHang.Name = "groupBoxMuaHang";
-            this.groupBoxMuaHang.Size = new System.Drawing.Size(350, 711);
-            this.groupBoxMuaHang.TabIndex = 7;
-            this.groupBoxMuaHang.TabStop = false;
-            this.groupBoxMuaHang.Text = "Mua hàng";
-            // 
-            // dataGridViewMatHang
-            // 
-            this.dataGridViewMatHang.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.dataGridViewMatHang.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
-            this.dataGridViewMatHang.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridViewMatHang.Location = new System.Drawing.Point(2, 3);
-            this.dataGridViewMatHang.Name = "dataGridViewMatHang";
-            this.dataGridViewMatHang.RowHeadersWidth = 51;
-            this.dataGridViewMatHang.RowTemplate.Height = 80;
-            this.dataGridViewMatHang.Size = new System.Drawing.Size(1106, 591);
-            this.dataGridViewMatHang.TabIndex = 8;
-            this.dataGridViewMatHang.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewMatHang_CellClick);
-            this.dataGridViewMatHang.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewMatHang_CellContentClick);
-            // 
             // labelKhuyenMai
             // 
             this.labelKhuyenMai.AutoSize = true;
@@ -247,12 +99,6 @@ namespace quản_lý_bán_hàng
             this.labelKhuyenMai.Size = new System.Drawing.Size(440, 19);
             this.labelKhuyenMai.TabIndex = 18;
             this.labelKhuyenMai.Text = "Áp dụng mã giảm giá được giảm 10% trên tổng hóa đơn";
-            // 
-            // timer1
-            // 
-            this.timer1.Enabled = true;
-            this.timer1.Interval = 20;
-            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
             // buttonThoat
             // 
@@ -294,28 +140,95 @@ namespace quản_lý_bán_hàng
             this.buttonDangXuat.UseVisualStyleBackColor = false;
             this.buttonDangXuat.Click += new System.EventHandler(this.buttonDangXuat_Click);
             // 
-            // buttonChonGH
+            // pictureBoxGioHang
             // 
-            this.buttonChonGH.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.pictureBoxGioHang.BackColor = System.Drawing.Color.Transparent;
+            this.pictureBoxGioHang.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxGioHang.Image")));
+            this.pictureBoxGioHang.Location = new System.Drawing.Point(11, 3);
+            this.pictureBoxGioHang.Name = "pictureBoxGioHang";
+            this.pictureBoxGioHang.Size = new System.Drawing.Size(132, 99);
+            this.pictureBoxGioHang.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBoxGioHang.TabIndex = 4;
+            this.pictureBoxGioHang.TabStop = false;
+            this.pictureBoxGioHang.Click += new System.EventHandler(this.pictureBoxGioHang_Click);
+            // 
+            // numericSoLuong
+            // 
+            this.numericSoLuong.Location = new System.Drawing.Point(140, 206);
+            this.numericSoLuong.Name = "numericSoLuong";
+            this.numericSoLuong.Size = new System.Drawing.Size(65, 22);
+            this.numericSoLuong.TabIndex = 2;
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(23, 329);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(37, 16);
+            this.label4.TabIndex = 0;
+            this.label4.Text = "Hình:";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(23, 211);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(64, 16);
+            this.label3.TabIndex = 0;
+            this.label3.Text = "Số lượng:";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(23, 269);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(101, 16);
+            this.label2.TabIndex = 0;
+            this.label2.Text = "Giá(số lượng 1):";
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(23, 95);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(60, 16);
+            this.label6.TabIndex = 0;
+            this.label6.Text = "Mã hàng:";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(23, 155);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(65, 16);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Tên hàng:";
+            // 
+            // panel2
+            // 
+            this.panel2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.buttonChonGH.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(26)))), ((int)(((byte)(26)))));
-            this.buttonChonGH.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(26)))), ((int)(((byte)(26)))));
-            this.buttonChonGH.BoderRadius = 40;
-            this.buttonChonGH.BoderSize = 0;
-            this.buttonChonGH.BorderColor = System.Drawing.Color.PaleVioletRed;
-            this.buttonChonGH.FlatAppearance.BorderSize = 0;
-            this.buttonChonGH.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.buttonChonGH.ForeColor = System.Drawing.Color.White;
-            this.buttonChonGH.Location = new System.Drawing.Point(26, 23);
-            this.buttonChonGH.Name = "buttonChonGH";
-            this.buttonChonGH.ReadOnly = false;
-            this.buttonChonGH.Size = new System.Drawing.Size(146, 40);
-            this.buttonChonGH.TabIndex = 12;
-            this.buttonChonGH.Text = "Chọn giỏ hàng";
-            this.buttonChonGH.TextColor = System.Drawing.Color.White;
-            this.buttonChonGH.UseVisualStyleBackColor = false;
-            this.buttonChonGH.Click += new System.EventHandler(this.buttonChonGH_Click);
+            this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.panel2.Controls.Add(this.buttonXacNhan);
+            this.panel2.Controls.Add(this.label8);
+            this.panel2.Controls.Add(this.textBoxMaGG);
+            this.panel2.Controls.Add(this.textBoxGia);
+            this.panel2.Controls.Add(this.textBoxTenHang);
+            this.panel2.Controls.Add(this.textBoxMaHang);
+            this.panel2.Controls.Add(this.buttonThem);
+            this.panel2.Controls.Add(this.pictureBoxHinh);
+            this.panel2.Controls.Add(this.numericSoLuong);
+            this.panel2.Controls.Add(this.labelGioHang);
+            this.panel2.Controls.Add(this.label4);
+            this.panel2.Controls.Add(this.label3);
+            this.panel2.Controls.Add(this.label2);
+            this.panel2.Controls.Add(this.label6);
+            this.panel2.Controls.Add(this.label1);
+            this.panel2.Location = new System.Drawing.Point(3, 18);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(344, 690);
+            this.panel2.TabIndex = 0;
             // 
             // buttonXacNhan
             // 
@@ -336,6 +249,15 @@ namespace quản_lý_bán_hàng
             this.buttonXacNhan.TextColor = System.Drawing.Color.White;
             this.buttonXacNhan.UseVisualStyleBackColor = false;
             this.buttonXacNhan.Click += new System.EventHandler(this.customButton1_Click);
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Location = new System.Drawing.Point(29, 579);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(77, 16);
+            this.label8.TabIndex = 10;
+            this.label8.Text = "Mã giảm giá";
             // 
             // textBoxMaGG
             // 
@@ -425,6 +347,59 @@ namespace quản_lý_bán_hàng
             this.buttonThem.UseVisualStyleBackColor = false;
             this.buttonThem.Click += new System.EventHandler(this.buttonThem_Click);
             // 
+            // pictureBoxHinh
+            // 
+            this.pictureBoxHinh.BackColor = System.Drawing.Color.White;
+            this.pictureBoxHinh.Location = new System.Drawing.Point(140, 329);
+            this.pictureBoxHinh.Name = "pictureBoxHinh";
+            this.pictureBoxHinh.Size = new System.Drawing.Size(163, 140);
+            this.pictureBoxHinh.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBoxHinh.TabIndex = 3;
+            this.pictureBoxHinh.TabStop = false;
+            // 
+            // labelGioHang
+            // 
+            this.labelGioHang.AutoSize = true;
+            this.labelGioHang.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelGioHang.Location = new System.Drawing.Point(178, 28);
+            this.labelGioHang.Name = "labelGioHang";
+            this.labelGioHang.Size = new System.Drawing.Size(106, 25);
+            this.labelGioHang.TabIndex = 0;
+            this.labelGioHang.Text = "Giỏ hàng:";
+            this.labelGioHang.Click += new System.EventHandler(this.labelGioHang_Click);
+            // 
+            // groupBoxMuaHang
+            // 
+            this.groupBoxMuaHang.Controls.Add(this.panel2);
+            this.groupBoxMuaHang.Location = new System.Drawing.Point(1109, 0);
+            this.groupBoxMuaHang.Name = "groupBoxMuaHang";
+            this.groupBoxMuaHang.Size = new System.Drawing.Size(350, 711);
+            this.groupBoxMuaHang.TabIndex = 7;
+            this.groupBoxMuaHang.TabStop = false;
+            this.groupBoxMuaHang.Text = "Mua hàng";
+            // 
+            // dataGridViewMatHang
+            // 
+            this.dataGridViewMatHang.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.dataGridViewMatHang.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
+            this.dataGridViewMatHang.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridViewMatHang.Location = new System.Drawing.Point(2, 3);
+            this.dataGridViewMatHang.Name = "dataGridViewMatHang";
+            this.dataGridViewMatHang.RowHeadersWidth = 51;
+            this.dataGridViewMatHang.RowTemplate.Height = 80;
+            this.dataGridViewMatHang.Size = new System.Drawing.Size(1106, 591);
+            this.dataGridViewMatHang.TabIndex = 8;
+            this.dataGridViewMatHang.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewMatHang_CellClick);
+            this.dataGridViewMatHang.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewMatHang_CellContentClick);
+            // 
+            // timer1
+            // 
+            this.timer1.Enabled = true;
+            this.timer1.Interval = 20;
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            // 
             // KHForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -474,7 +449,6 @@ namespace quản_lý_bán_hàng
         public customButton buttonThoat;
         public customButton buttonDangXuat;
         public System.Windows.Forms.Label labelGioHang;
-        public customButton buttonChonGH;
         private System.Windows.Forms.DataGridView dataGridViewMatHang;
         public customButton buttonXacNhan;
         public System.Windows.Forms.Label labelKhuyenMai;
