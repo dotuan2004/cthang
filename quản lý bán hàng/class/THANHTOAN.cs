@@ -5,6 +5,7 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace quản_lý_bán_hàng
 {
@@ -87,20 +88,38 @@ namespace quản_lý_bán_hàng
         }
         public bool xoahethangtronggio(int magiohang, int mskh)
         {
-            SqlCommand command = new SqlCommand("DELETE FROM dbo.GIOHANG WHERE magiohang="+magiohang+ "AND mskh="+mskh, mydb.getConnection);
+            SqlCommand command = new SqlCommand("DELETE FROM dbo.GIOHANG WHERE magiohang = @magiohang AND mskh = @mskh", mydb.getConnection);
+
+            // Thêm tham số vào câu lệnh SQL
+            command.Parameters.AddWithValue("@magiohang", magiohang);
+            command.Parameters.AddWithValue("@mskh", mskh);
+
             mydb.openConnection();
-            if ((command.ExecuteNonQuery() == -1))
+
+            try
             {
-                mydb.closeConnection();
+                // Kiểm tra số dòng bị ảnh hưởng
+                if (command.ExecuteNonQuery() > 0)
+                {
+                    return true; // Xóa thành công
+                }
+                else
+                {
+                    return false; // Không có dòng nào bị xóa (có thể không tìm thấy bản ghi)
+                }
+            }
+            catch (Exception ex)
+            {
+               
+                
                 return false;
             }
-            else
+            finally
             {
-                mydb.closeConnection();
-                return true;
+                mydb.closeConnection(); // Đảm bảo đóng kết nối
             }
-
         }
+
         public bool trangthaithanhtoan(int magiohang, int mskh)
         {
             SqlCommand command = new SqlCommand("UPDATE GIOHANG SET thanhtoan=1 WHERE magiohang=@mgh AND mskh=@mskh", mydb.getConnection);

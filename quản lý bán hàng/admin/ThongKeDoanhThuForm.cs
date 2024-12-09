@@ -48,6 +48,7 @@ namespace quản_lý_bán_hàng
                     giatri = Convert.ToInt32(dataGridViewAVG.Rows[r].Cells[c].Value);
                     
                     chart1.Series["VNĐ"].Points.AddXY("Tháng "+ten_tam, giatri);
+                    //tắt lưới
                     chart1.ChartAreas["ChartArea1"].AxisX.MajorGrid.Enabled = false;
                 }
             }

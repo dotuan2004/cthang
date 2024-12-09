@@ -32,12 +32,13 @@ namespace quản_lý_bán_hàng
             //chartAVG.Series["ChartAVG"].Points.AddXY("thang 2", 1500);
             //chartAVG.Series["ChartAVG"].Points.AddXY("thang 3", 1400);
             //chartAVG.Series["ChartAVG"].Points.AddXY("thang 4", 1200);
-            int RowCount = dataGridViewAVG.Rows.Count; //hang`
+            int RowCount = dataGridViewAVG.Rows.Count; //hang
             int ColumnCount = dataGridViewAVG.Columns.Count; //cot
             int r;
             string ten_tam;
             int giatri;
-            for (r = 0; r < RowCount; r++) //chay hang`
+            //chart1 là đồ thị ,chạy 2 vòng for để duyện giá trị tương ứng như tên,số ở bảng datagridview 
+            for (r = 0; r < RowCount; r++) //chay hang
             {
                 ten_tam = dataGridViewAVG.Rows[r].Cells[0].Value.ToString();
                 for (int c = 1; c < ColumnCount; c++)
